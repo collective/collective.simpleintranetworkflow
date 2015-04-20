@@ -37,10 +37,10 @@ msgstr ""
 msgid "Make private"
 msgstr ""
 
-msgid "Publish internally"
+msgid "Make internally visible"
 msgstr ""
 
-msgid "Publish externally"
+msgid "Make externally visible"
 msgstr ""
 
 msgid "Making an item private means that it will not be visible to anyone but the owner and the site administrator or users with appropriate local rights."
